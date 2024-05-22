@@ -1,17 +1,16 @@
 
-<h1>Password-Management-Solution-Deployed-in-AWS</h1>
+<h1>Password Management Solution Deployed in AWS</h1>
 
 ### Description
-- Set up an AWS cloud instance to self host Passbolt, to securely store and manage complex passwords.
-- Implemented HTTPS encryption to safeguard sensitive data transmitted to and from the password manager.
-- Configured and maintained the domain hosting for the password manager, ensuring confidentiality and accessibility.
+- Set up an AWS cloud instance to self host Passbolt, to securely store and manage complex passwords
+- Implemented HTTPS encryption to safeguard sensitive data transmitted to and from the password manager
+- Configured and maintained the domain hosting for the password manager, ensuring confidentiality and accessibility
 
 ### Skills Learned
 
-- Proficincy in incident response and investigation
-- Threat identification and assessment using diverse tools and techniques
-- Proficiency in developing and implementing effective remediation measures
-- Developing and deploying automation solutions in a SIEM environment 
+- Proficincy in configuring and managing workloads hosted in an AWS cloud environment and ensuring adherence to cybersecurity best practices
+- Comprehensive understanding of network security principles and protocols, including TCP/IP, SSL/TLS, and SSH, to successfully immplement encryption and ensure the secure transmission of sensitive data
+- Proficinecy in password security and best practices 
 
 ### Tools Used
 
@@ -21,19 +20,23 @@
 <h2>Screenshots:</h2>
 
 <p align="center">
+Completed Passbolt Instance:  <br/>
+<img src="https://github.com/bryanotoole/Project-Pictures/blob/main/Passbolt%20Screenshot.png"/>
+<br />
+<br />
 AWS Instance 1: <br/>
 <img src="https://github.com/bryanotoole/Project-Pictures/blob/main/AWS%20Passbolt%20Instance%201.png"/>
 <br />
 <br />
-High Risk Incident Log:  <br/>
-<img src="https://github.com/bryanotoole/Project-Pictures/blob/main/Sentinel%20High%20Incident%20Log.png"/>
+AWS Instance 2:  <br/>
+<img src="https://github.com/bryanotoole/Project-Pictures/blob/main/AWS%20Passbolt%20Instance%202.png"/>
 <br />
 <br />
-Sentinel ChatGPT Playbook on High Incident: <br/>
-<img src="https://github.com/bryanotoole/Project-Pictures/blob/main/Sentinel%20ChatGPT%20Playbook%20on%20High%20Incident.png"/>
+AWS Instance 3: <br/>
+<img src="https://github.com/bryanotoole/Project-Pictures/blob/main/AWS%20Passbolt%20Instance%203.png"/>
 <br />
 <br />
-ChatGPT Playbook Buildout:  <br/>
-<img src="https://github.com/bryanotoole/Project-Pictures/blob/main/ChatGPT%20Playbook%20Buildout.png"/>
+AWS Instance 4:  <br/>
+<img src="https://github.com/bryanotoole/Project-Pictures/blob/main/AWS%20Passbolt%20Instance%204.png"/>
 <br />
 <br />
