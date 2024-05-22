@@ -14,7 +14,7 @@
 
 ### Tools Used
 
-- Amazon Web Setvices
+- Amazon Web Services
 - Passbolt
 
 <h2>Screenshots:</h2>
