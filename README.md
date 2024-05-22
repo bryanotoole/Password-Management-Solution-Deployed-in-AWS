@@ -2,15 +2,15 @@
 <h1>Password Management Solution Deployed in AWS</h1>
 
 ### Description
-- Set up an AWS cloud instance to self host Passbolt, to securely store and manage complex passwords
+- Set up an AWS cloud instance to self-host Passbolt, to securely store and manage complex passwords
 - Implemented HTTPS encryption to safeguard sensitive data transmitted to and from the password manager
 - Configured and maintained the domain hosting for the password manager, ensuring confidentiality and accessibility
 
 ### Skills Learned
 
-- Proficincy in configuring and managing workloads hosted in an AWS cloud environment and ensuring adherence to cybersecurity best practices
-- Comprehensive understanding of network security principles and protocols, including TCP/IP, SSL/TLS, and SSH, to successfully immplement encryption and ensure the secure transmission of sensitive data
-- Proficinecy in password security and best practices 
+- Proficiency in configuring and managing workloads hosted in an AWS cloud environment and ensuring adherence to cybersecurity best practices
+- Comprehensive understanding of network security principles and protocols, including TCP/IP, SSL/TLS, and SSH, to successfully implement encryption and ensure the secure transmission of sensitive data
+- Proficiency in password security and best practices
 
 ### Tools Used
 
